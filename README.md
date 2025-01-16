@@ -1,6 +1,11 @@
-# Nuxt 3 Minimal Starter
+## Nuxt UI Advanced Shimmer Effect
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### Demo Link
+[Demo](https://nuxtstarterhjyarwwj-xwqh--3000--1b4252dd.local-credentialless.webcontainer.io/)
+
+### Demo preview
+![Demo](public/demo.gif)
+
 
 ## Setup
 
@@ -40,3 +45,4 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
