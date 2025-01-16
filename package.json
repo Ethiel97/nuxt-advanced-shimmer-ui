@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "HOST=0.0.0.0 nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@vueuse/motion": "^2.2.6",
+    "vee-validate": "*",
+    "yup": "*"
+  },
+  "devDependencies": {
+    "@nuxt/ui": "^2.19.2",
+    "@nuxtjs/tailwindcss": "^6.12.2",
+    "nuxt": "^3.2.2"
+  }
+}
